@@ -1,6 +1,6 @@
 # Web Scraping Project
 
-This project scrapes book data from the [Books to Scrape](https://books.toscrape.com/) website. It collects information about books, including their titles, prices, stock availability, ratings, and descriptions, and saves the data into a CSV file for further analysis and visualization.
+This project was made for a task from Tuwaiq academy, scraping book data from the [Books to Scrape](https://books.toscrape.com/) website. It collects information about books, including their titles, prices, stock availability, ratings, and descriptions, and saves the data into a CSV file for further analysis and visualization.
 
 ## Features
 - Scrapes book data from multiple pages.
